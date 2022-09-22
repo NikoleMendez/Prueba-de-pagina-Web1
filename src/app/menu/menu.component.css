@@ -1,0 +1,15 @@
+.Menu{
+  background-color: #e8cc5f ;
+
+    position: absolute;
+    bottom: 80%;
+    margin-top: 40px;
+
+    right: 3%;
+
+    height: 80px;
+    width: 950px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #e8cc5f;
+    }

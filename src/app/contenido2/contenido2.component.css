@@ -1,0 +1,16 @@
+.Contenido2{
+  background-color:#78db8b;
+
+  position: absolute;
+  margin-top: 100px;
+  bottom: 61.5%;
+  right: 3%;
+
+
+
+  height: 80px;
+  width: 350px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #78db8b;
+}

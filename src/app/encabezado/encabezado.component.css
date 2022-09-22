@@ -1,0 +1,15 @@
+.Encabezado{
+
+  background-color: #4e6d9b;
+  position: absolute;
+  margin-top: 40px;
+  bottom: 80%;
+  left: 3.5%;
+
+
+  height: 80px;
+  width: 250px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #4e6d9b;
+}
